@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/
+models/*.joblib
+outputs/
+.ipynb_checkpoints/
